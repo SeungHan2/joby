@@ -1,2 +1,2 @@
 yfinance
-python-telegram-bot==13.17
+python-telegram-bot
