@@ -1,4 +1,2 @@
 yfinance
-python-telegram-bot
-requests
-schedule
+python-telegram-bot==13.17
